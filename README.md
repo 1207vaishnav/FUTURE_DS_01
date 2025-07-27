@@ -12,7 +12,7 @@ This project presents an interactive **Sales Analysis and Forecasting Dashboard*
 
 ## 📂 File
 
-- <href.https://github.com/1207vaishnav/FUTURE_DS_01/commit/fd003d2a3927e95f4f5f15f483773bd86a298c5f>– Power BI project file
+- [Sales_Analysis_Dashboard.pbix](https://github.com/1207vaishnav/FUTURE_DS_01/blob/main/Internship_Task_01.pbix)– Power BI project file
 
 ## 📌 Tools Used
 
@@ -22,7 +22,7 @@ This project presents an interactive **Sales Analysis and Forecasting Dashboard*
 
 ## 📷 Screenshots
 
-<href.https://github.com/1207vaishnav/FUTURE_DS_01/commit/121a0bf60c243e0d1fa71e4360d6be868625d9b4>
+<href.befhttps://github.com/1207vaishnav/FUTURE_DS_01/commit/121a0bf60c243e0d1fa71e4360d6be868625d9b4>
 
 ## 📈 Insights Delivered
 
@@ -43,4 +43,4 @@ Feel free to fork the repo and enhance the dashboard with new features, visualiz
 
 ## 📬 Contact
 
-For any queries or feedback, feel free to reach out via GitHub or LinkedIn<href.https://www.linkedin.com/in/vaishnav-teja-jonnalagadda-05941025b/>.
+For any queries or feedback, feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/vaishnav-teja-jonnalagadda-05941025b/).

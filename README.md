@@ -43,4 +43,4 @@ Feel free to fork the repo and enhance the dashboard with new features, visualiz
 
 ## 📬 Contact
 
-For any queries or feedback, feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/vaishnav-teja-jonnalagadda-05941025b/).
+For any queries or feedback, feel free to reach out via [GitHub](https://github.com/1207vaishnav) or [LinkedIn](https://www.linkedin.com/in/vaishnav-teja-jonnalagadda-05941025b/).

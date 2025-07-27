@@ -22,7 +22,7 @@ This project presents an interactive **Sales Analysis and Forecasting Dashboard*
 
 ## 📷 Screenshots
 
-<href.befhttps://github.com/1207vaishnav/FUTURE_DS_01/commit/121a0bf60c243e0d1fa71e4360d6be868625d9b4>
+[Dashboard_Screenshots](https://github.com/1207vaishnav/FUTURE_DS_01/tree/main/Dashboard)
 
 ## 📈 Insights Delivered
 
